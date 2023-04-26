@@ -44,7 +44,6 @@ sections:
       text:
   - block: features
     content:
-          content:
       title: Habilidades
       items:
         - name: Bioestatística
