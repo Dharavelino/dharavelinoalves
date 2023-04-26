@@ -44,19 +44,20 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+          content:
+      title: Habilidades
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Bioestatística
+          description: 
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Bioinformática
+          description: 
+          icon: laptop-code
+          icon_pack: fas
+        - name: Genética
+          description: 
+          icon: dna
           icon_pack: fas
   - block: experience
     content:
