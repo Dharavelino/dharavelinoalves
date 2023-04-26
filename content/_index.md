@@ -12,10 +12,10 @@ sections:
         filename: icon2.png
       cta:
         label: '**Acesse os materiais aqui**'
-        url: https://dharavelinoalves.netlify.app/project
+        url: https://dharavelinoalves.netlify.app/#project
       cta_alt:
         label: Entre em contato
-        url: https://dharavelinoalves.netlify.app/contact
+        url: https://dharavelinoalves.netlify.app/#contact
       text: |-
         Este é um espaço onde compartilho um pouco sobre minhas pesquisas, scripts e tudo que envolve ciência, bioestatística e bioinformática.
         {style="text-align: justify;"}
