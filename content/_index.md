@@ -9,7 +9,7 @@ sections:
     content:
       title: Seja bem-vindo(a)!
       image:
-        filename: icon.png
+        filename: icon2.png
       cta:
         label: '**Acesse os materiais aqui**'
         url: https://dharavelinoalves.netlify.app/project
