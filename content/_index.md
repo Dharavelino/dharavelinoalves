@@ -7,15 +7,15 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Seja bem-vindo(a)!
       image:
-        filename: hero-academic.png
+        filename: icon.png
       cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        label: '**Acesse os materiais aqui**'
+        url: https://dharavelinoalves.netlify.app/project
       cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
+        label: Entre em contato
+        url: https://dharavelinoalves.netlify.app/contact
       cta_note:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
@@ -34,7 +34,7 @@ sections:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
-        text_color_light: true
+        text_color_light: false
   - block: about.avatar
     id: about
     content:
