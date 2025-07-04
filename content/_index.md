@@ -64,19 +64,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Mestranda
+    - title: Pesquisadora Nível Doutorado
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
           company_logo: peb
           location: PEB COPPE UFRJ
-          date_start: '2022-08-01'
+          date_start: '2024-08-01'
           date_end: ''
           description: |2-
               Responsabilidades:
 
               * Processamento de dados metagenômicos
               * Análise bioestatística 
-              * Desenvolvimento de modelos para predição gênica
+              * Desenvolvimento de modelos de aprendizado de máquina para predição gênica
+              * Identificação de genes de interesse biotecnológico e farmacológico
+              * Elaboração de artigos e relatórios 
+              * Apresentação em congressos e seminários
+      
+        - title: Pesquisadora Nível Mestrado
+          company: Laboratório de Sistemas de Engenharia de Saúde
+          company_url: ''
+          company_logo: peb
+          location: PEB COPPE UFRJ
+          date_start: '2022-08-01'
+          date_end: '2024-07-26'
+          description: |2-
+              Responsabilidades:
+
+              * Processamento de dados metagenômicos
+              * Análise bioestatística 
+              * Desenvolvimento de modelos de aprendizado de máquina para para predição gênica
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
 
