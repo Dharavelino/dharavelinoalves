@@ -26,8 +26,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#ffffff''
-        gradient_start: '#ffffff''
+        gradient_end: '#ffffff'
+        gradient_start: '#ffffff'
         text_color_light: false
   - block: about.avatar
     id: about
