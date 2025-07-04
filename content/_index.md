@@ -64,7 +64,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Pesquisadora Nível Doutorado
+        - title: Pesquisadora Nível Doutorado
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
           company_logo: peb
@@ -72,7 +72,7 @@ sections:
           date_start: '2024-08-01'
           date_end: ''
           description: |2-
-              Responsabilidades:
+              Responsibilities include:
 
               * Processamento de dados metagenômicos
               * Análise bioestatística 
@@ -80,7 +80,6 @@ sections:
               * Identificação de genes de interesse biotecnológico e farmacológico
               * Elaboração de artigos e relatórios 
               * Apresentação em congressos e seminários
-      
         - title: Pesquisadora Nível Mestrado
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
