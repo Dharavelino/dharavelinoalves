@@ -64,7 +64,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    - title: Pesquisadora Nível Doutorado
+       - title: Pesquisadora Nível Doutorado
           company: Laboratório de Sistemas de Engenharia de Saúde
           company_url: ''
           company_logo: peb
